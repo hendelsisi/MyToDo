@@ -1,0 +1,1 @@
+To Do App is designed to manage tasks and organize the tasks in folders
